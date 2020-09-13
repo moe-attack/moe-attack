@@ -8,7 +8,7 @@ Some quick notes about Jimmy:
 * 💻 He interned in a Big-4 consulting firm for 6 months! Career driven!
 * ❤️ He volunteered many times for good causes! Friendly and helpful!
 
-## What does moe-attack knows❓
+## What does moe-attack know❓
 From a technical perspective, Jimmy is proficient in:
 * 📱  iOS / Android hybrid applications development and Swift / Kotlin programming languages, from professional experiences.
 * 🎓 Backend development with Python and Java, and knowledge of AWS and Serverless, from university experiences.
